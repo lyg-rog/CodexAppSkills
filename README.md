@@ -1,0 +1,2 @@
+# CodexAppSkills
+这个仓库主要用于网页版的gpt/codex读取本地codexApp的skills,实现更加精确的skills推荐
